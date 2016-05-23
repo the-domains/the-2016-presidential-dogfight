@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The 2016 Presidential Dogfight]]></title>
         <description><![CDATA[The 2016 Presidential Dogfight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-2016-presidential-dogfight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 19:21:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 19:29:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-2016-presidential-dogfight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>John McAfee Launches Bid For Libertarian Nomination</p>]]></description>
-            <link>undefinedjohn-mcafee-launches-bid-for-libertarian-nomination/index.html</link>
+            <link>https://thegrid.ai/the-2016-presidential-dogfight/john-mcafee-launches-bid-for-libertarian-nomination/index.html</link>
             <guid isPermaLink="false">a85a20bc-ef5b-4147-a520-e3c3ec1e089f</guid>
-            <pubDate>Mon, 23 May 2016 19:21:16 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 19:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
